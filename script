@@ -1,5 +1,3 @@
--- This file was generated at discord.gg/syncrypt
-
 local unpack_ = unpack or table.unpack
 local lib = loadstring(game:HttpGet("https://raw.githubusercontent.com/AgostDead/new-ui-painkillers/main/ui"))()
 local color3 = Color3.fromRGB(255, 0, 0)
@@ -5156,5 +5154,5 @@ end)
 
 local Informations = v6:AddTab("Informations")
 
-Informations:AddLabel(" ").TextSize = 50
+Informations:AddLabel("made by Angry66gsjjd, source for edit bro's").TextSize = 50
 Informations:AddLabel("PainKillers Private").TextSize = 30
